@@ -30,17 +30,17 @@ Good communication and interpersonal skills with significant experience in worki
 
 ------------------------------------
 ## Work experience:
-* Director/owner
-  Provento ltd.
+* Director/owner, 
+  Provento ltd., 
   Nov 2011 - Mar 2017
-* Chairman of the Board
-  PO Izumrudny-2
+* Chairman of the Board, 
+  PO Izumrudny-2, 
   Feb 2018 - Jul 2021
-* Software Testing Engineer
-  Liquid Pug · Full-time
+* Software Testing Engineer, 
+  Liquid Pug ltd., 
   Oct 2021 - Nov 2021
-* Junior Software Testing Engineer
-  EPAM Systems
+* Junior Software Testing Engineer, 
+  EPAM Systems, 
   Nov 2021 - Present
 
 ------------------------------------
@@ -48,21 +48,21 @@ Good communication and interpersonal skills with significant experience in worki
 
 ------------------------------------
 ## Education and courses
-National University «Zaporizhzhia polytechnic» (ex.Zaporizhzhia state technical university)
-Specialist, "Organization management" 
+* National University «Zaporizhzhia polytechnic» (ex.Zaporizhzhia state technical university), 
+Specialist, "Organization management", 
 1995-2001
 
-IT AcademyIT Academy
-Manual testing
+* IT Academy, 
+Manual testing, 
 Mar 2021 - Jul 2021
 
-RS Schools 
-Course «JavaScript/Front-end. Stage 0» 
+* RS Schools, 
+Course «JavaScript/Front-end. Stage 0», 
 In progress
 
 ------------------------------------
 ## Languages:
-Ukrainian - Native
-Russian - Native
-English - B1
-Polish - A1
+* Ukrainian - Native
+* Russian - Native
+* English - B1
+* Polish - A1
