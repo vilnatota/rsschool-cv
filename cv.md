@@ -1,3 +1,4 @@
+![Main](/rsschool-cv/Main.png)
 # Kateryna Zharkevych
 
 ## Junior Software Testing Engineer
@@ -42,6 +43,7 @@ Good communication and interpersonal skills with significant experience in worki
 * Junior Software Testing Engineer, 
   EPAM Systems, 
   Nov 2021 - Present
+![EPAM](/rsschool-cv/EPAM.png)
 
 ------------------------------------
 ## Code example:
