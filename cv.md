@@ -6,7 +6,7 @@
 ## Contact information:
 * Mobile: +48 537 157 623
 * E-mail: kateryna_zharkevych@epam.com
-* LinkedIn: [Link](https://www.linkedin.com/in/kateryna-zharkevych-4a8125209/)
+* [LinkedIn](https://www.linkedin.com/in/kateryna-zharkevych-4a8125209/)
 * GitHub: @vilnatota
 * Discord: @Katerina Zh.#1742
 
