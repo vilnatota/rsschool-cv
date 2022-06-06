@@ -44,7 +44,6 @@ Good communication and interpersonal skills with significant experience in worki
 * Junior Software Testing Engineer, 
   EPAM Systems, 
   Nov 2021 - Present
-  ![EPAM](EPAM.png)
 
 ------------------------------------
 ## Code example:
