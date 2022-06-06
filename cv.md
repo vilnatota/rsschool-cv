@@ -45,6 +45,11 @@ Good communication and interpersonal skills with significant experience in worki
 
 ------------------------------------
 ## Code example:
+```
+function multiply($a, $b){
+  return $a * $b
+}
+```
 
 ------------------------------------
 ## Education and courses
